@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 4px midnightblue;
+    width: 400px;
+    height: 300px;
+    background: dodgerblue;
+    margin: auto;
+}
+
+.item{
+    background: palevioletred;
+    font-weight: bold;
+    text-align: center;
+    width: 80px;    
+    height: 80px;
+    border: 6px solid maroon;
+
+}
